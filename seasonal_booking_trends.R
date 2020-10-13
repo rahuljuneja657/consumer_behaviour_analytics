@@ -2,7 +2,7 @@ library(sqldf)
 library(forecast)
 
 getwd()
-setwd("C:/Users/ssr180000/Documents/Expedia_Data")
+setwd("C:/Users/Documents/Expedia_Data")
 
 # Read the data
 booking_data <- read.csv("booking.csv")
